@@ -15,7 +15,7 @@
 
 ## 🖥️ Environment
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-555555?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ✨ Skills
